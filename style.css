@@ -1,0 +1,19 @@
+.input{
+    width: 0px;
+    height: 100px;
+    font-size: 40px;
+    /* /* margin-left: 700px; */
+    margin-top: 500px; 
+    transition: 1s;
+}
+body{
+    background-color:blue;
+    display: flex;
+    justify-content: center;
+}
+button{
+    width:150px;
+    height: 100px;
+    margin-top: 500px;
+
+}
